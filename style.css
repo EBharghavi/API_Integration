@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #0c82c7;
+    margin: 0;
+    padding: 20px;
+}
+
+#weather-container {
+    background: rgb(115, 177, 228);
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+input {
+    padding: 10px;
+    margin-right: 10px;
+    width: 200px;
+}
+
+button {
+    padding: 10px;
+}
+
+#weather-info {
+    margin-top: 20px;
+}
